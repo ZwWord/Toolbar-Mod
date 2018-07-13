@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toolbar",
+  "name": "Toolbar Mod",
+  "description": "ToolbarMod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gzz_lin"],
+  "credits": "ToolbarMod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
